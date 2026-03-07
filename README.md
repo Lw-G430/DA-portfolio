@@ -31,6 +31,9 @@ This repository serves as a portfolio of my data science projects using **Python
 # Projects
 
 ## Customer Churn Prediction (Python)
+
+Repository: [customer-churn-analysis](https://github.com/Lw-G430/customer-churn-analysis)
+
 Machine learning model predicting telecom customer churn.
 
 Tech:
