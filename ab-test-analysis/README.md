@@ -107,18 +107,21 @@ Jupyter Notebook
 ---
 
 ## Project Structure
+
+```
 ab-test-analysis
 │
 ├── data
-│ └── ab_test_data.csv
+│   └── ab_test_data.csv
 │
 ├── images
-│ ├── conversion_rate_by_group.png
-│ ├── sample_size_by_group.png
-│ └── conversion_rate_confidence_interval.png
+│   ├── conversion_rate_by_group.png
+│   ├── sample_size_by_group.png
+│   └── conversion_rate_confidence_interval.png
 │
 ├── ab_test.ipynb
 └── README.md
+```
 
 
 ---
