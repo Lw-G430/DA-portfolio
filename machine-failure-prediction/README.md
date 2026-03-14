@@ -119,9 +119,9 @@ Cross Validation Scores
 [0.98, 0.9756, 0.98, 0.9781, 0.9781]
 
 Mean CV Score
-0.968
+0.978
 
-The model achieves approximately **96.8% accuracy**.
+The model achieves approximately **97.8% accuracy**.
 
 ### ROC Curve
 
