@@ -43,6 +43,16 @@ Most observations correspond to normal machine operation, with relatively few fa
 
 ---
 
+# Error Analysis
+
+The model misclassified **42 samples out of 2000 test observations**.
+
+Misclassified cases typically occur when sensor values lie near the boundary between normal operation and failure conditions.
+
+This overlap is common in predictive maintenance problems where degradation occurs gradually.
+
+
+---
 ## Air Temperature Distribution
 
 ![Air Temperature Distribution](images/air_temperature_distribution.png)
@@ -137,15 +147,7 @@ The most influential features for predicting machine failure are:
 
 These variables provide the strongest signal for detecting abnormal machine behavior.
 
----
 
-# Error Analysis
-
-The model misclassified **42 samples out of 2000 test observations**.
-
-Misclassified cases typically occur when sensor values lie near the boundary between normal operation and failure conditions.
-
-This overlap is common in predictive maintenance problems where degradation occurs gradually.
 
 ---
 
