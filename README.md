@@ -34,8 +34,7 @@ This repository serves as a portfolio of my data analysis and machine learning p
 ---
 
 ## Machine Failure Prediction
-Repository:  
-(machine-failure-prediction repo)
+Repository: [machine-failure-prediction](./machine-failure-prediction) 
 
 Predictive maintenance model identifying potential machine failures using sensor data.
 
