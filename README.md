@@ -31,22 +31,6 @@ This repository serves as a portfolio of my data analysis and machine learning p
 
 # Projects
 
-## Customer Churn Prediction
-Repository:  
-https://github.com/Lw-G430/customer-churn-analysis
-
-Machine learning model predicting telecom customer churn.
-
-Tech:
-- Python
-- Pandas
-- Scikit-learn
-
-Topics:
-- Feature engineering
-- Classification modeling
-- Model evaluation
-
 ---
 
 ## Machine Failure Prediction
@@ -67,6 +51,23 @@ Topics:
 - Random Forest model
 - Cross-validation
 - Feature importance analysis
+
+---
+### A/B Testing Conversion Analysis
+Repository: [ab-test-analysis](./ab-test-analysis)
+
+Evaluate whether a new webpage design improves user conversion rates using statistical hypothesis testing.
+
+Tech:
+- Python
+- Pandas
+- Statsmodels
+- Matplotlib
+
+Topics:
+- A/B testing
+- Hypothesis testing
+- Conversion rate analysis
 
 ---
 
